@@ -1,2 +1,2 @@
-# jsandhu44
-ops435 lab1
+Jagbir Sandhu
+OPS435 Section NAA
